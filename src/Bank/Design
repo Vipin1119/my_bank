@@ -1,0 +1,7 @@
+Bank-Design
+
+1. customer
+Name age Email ph passward Acc#
+
+2.Acc
+Acc# , balance ,deposit , withdraw
